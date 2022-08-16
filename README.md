@@ -3,7 +3,7 @@
 #### I am a Frontend Developper
 I am former military officer. My military background has related to the IT where I was in charge of data basing issues in MoD. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS / Bootstrap /  Skeleton
+Skills: REACT / JS / HTML / CSS / Bootstrap /  Skeleton
 - 🔭 I’m currently working on creating different Web Sites 
 - 🌱 I’m currently learning JS 
 - 👯 I’m looking to collaborate on Creating Web Sites 
