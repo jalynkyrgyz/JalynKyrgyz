@@ -1,7 +1,8 @@
 ![logo JK-1](https://user-images.githubusercontent.com/87895714/132447091-22547072-a0cb-4ef8-994a-11f8e2fe7d86.png)
 ### Hi there 👋, I am Jalyn Kyrgyz
 #### I am a Frontend Developper
-I am former military officer. My military background has related to the IT where I was in charge of data basing issues in MoD. 
+I am a former military officer. 
+My military background has related to the IT where I was in charge of data basing issues in MoD. 
 
 Skills: REACT / JS / HTML / CSS / Bootstrap /  Skeleton
 - 🔭 I’m currently working on creating different Web Sites 
